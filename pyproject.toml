@@ -7,7 +7,7 @@ name = "wpdm"
 version = "0.1.0"
 description = "Warsztat Praktyka Data Mining"
 readme = "README.md"
-authors = [{ name = "Szymon Bobek", email = "szymon.bobek@gmail.com" }]
+authors = [{ name = "Tomasz Dziób", email = "tom.dziob@gmail.com" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
